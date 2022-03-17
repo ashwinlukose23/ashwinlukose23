@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashwinlukose23
-- 👀 I’m interested in Web Development and Android Development
+- 👀 I’m interested in Web Development and Mobile App Development
 - 📫 How to reach me ashwinlukose05@gmail.com
 
 
